@@ -12,5 +12,6 @@ public class fibnocci {
             b=temp+b;
             System.out.print(b+" ");
         }
+        sc.close();
     }
 }

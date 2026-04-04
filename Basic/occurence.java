@@ -13,5 +13,6 @@ public class occurence {
             x=x/10;
         }
         System.out.println(count);
+        sc.close();
     }
 }

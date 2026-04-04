@@ -16,5 +16,6 @@ public class charsearch {
         char target = sc.next().charAt(0);
         boolean ans = search(name,target);
         System.out.println(ans);
+        sc.close();
     }
 }

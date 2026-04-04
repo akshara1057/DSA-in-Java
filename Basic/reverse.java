@@ -12,5 +12,6 @@ public class reverse {
             x=x/10;
         }
         System.out.println(revnum);
+        sc.close();
     }
 }

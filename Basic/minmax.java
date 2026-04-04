@@ -30,5 +30,6 @@ public class minmax {
         int maximum = max(arr,n);
         System.out.println(minimum);
         System.out.println(maximum);
+        sc.close();
     }
 }

@@ -18,5 +18,6 @@ class largest_element{
 
             int max=Math.max(c,Math.max(a,b));
         System.out.println("Maximum number is "+ max);
+        sc.close();
         }
     }

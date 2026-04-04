@@ -2,7 +2,7 @@ import java.util.*;
 
 public class reversearr {
 
-    static void reversearr(int[] arr){
+    static void reverse(int[] arr){
         int i, j;
         i = 0;
         j = arr.length - 1;
@@ -34,6 +34,7 @@ public class reversearr {
             arr[i] = sc.nextInt();
         }
 
-        reversearr(arr);
+        reverse(arr);
+        sc.close();
     }
 }

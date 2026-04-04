@@ -20,5 +20,6 @@ public class search_in_2d {
             }
         int[] ans = search(arr,4);
         System.out.println(Arrays.toString(ans));
+        sc.close();
         }
     }

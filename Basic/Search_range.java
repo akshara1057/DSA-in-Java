@@ -25,6 +25,7 @@ public class Search_range {
             else{
                 System.out.println("Element found at index " + searched);
             }
+            sc.close();
     }
 }
 
