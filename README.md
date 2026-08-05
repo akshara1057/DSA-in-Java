@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/akshara1057/DSA-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshara1057/DSA-in-Java/tree/master/0877-stone-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/akshara1057/DSA-in-Java/tree/master/1406-stone-game-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
