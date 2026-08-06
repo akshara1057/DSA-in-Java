@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/akshara1057/DSA-in-Java/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshara1057/DSA-in-Java/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/akshara1057/DSA-in-Java/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshara1057/DSA-in-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3894-traffic-signal-color](https://github.com/akshara1057/DSA-in-Java/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshara1057/DSA-in-Java/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
