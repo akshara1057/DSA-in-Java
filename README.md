@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshara1057/DSA-in-Java/tree/master/1406-stone-game-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akshara1057/DSA-in-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/akshara1057/DSA-in-Java/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/akshara1057/DSA-in-Java/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/akshara1057/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akshara1057/DSA-in-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2942-find-words-containing-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2942-find-words-containing-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshara1057/DSA-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3894-traffic-signal-color](https://github.com/akshara1057/DSA-in-Java/tree/master/3894-traffic-signal-color) |
