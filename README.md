@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/akshara1057/DSA-in-Java/tree/master/1406-stone-game-iii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akshara1057/DSA-in-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2942-find-words-containing-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshara1057/DSA-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/akshara1057/DSA-in-Java/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/akshara1057/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akshara1057/DSA-in-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2942-find-words-containing-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2942-find-words-containing-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshara1057/DSA-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -142,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshara1057/DSA-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
