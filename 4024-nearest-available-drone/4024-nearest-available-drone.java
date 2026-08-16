@@ -10,11 +10,9 @@ class Solution {
             int a = drones[i][0];
             int b = drones[i][1];
             int dist = Math.abs(a - x) + Math.abs(b - y);
-            if (dist <= drones[i][2]) {
-                if (dist < min) {
-                    index = i;
-                    min = dist;
-                }
+            if (dist <= drones[i][2] && dist < min) {
+                index = i;
+                min = dist;
             }
         }
         return index;
