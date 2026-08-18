@@ -2,52 +2,42 @@ class Solution {
     public int largestInteger(int[] nums, int k) {
         int n = nums.length;
 
-        HashMap<Integer, Integer> mp = new HashMap<>();
+        int[] freq = new int[51];
 
-        for (int i = 0; i < n; i++) {
-            mp.put(nums[i], mp.getOrDefault(nums[i], 0) + 1);
-        }
-
-        if (k == nums.length) {
-            int maxValue = Integer.MIN_VALUE;
-
-            for (int i = 0; i < n; i++) {
-                maxValue = Math.max(maxValue, nums[i]);
-            }
-
-            return maxValue;
+        for (int x : nums) {
+            freq[x]++;
         }
 
         if (k == 1) {
-            int maxValue = -1;
-
-            for (int i = 0; i < n; i++) {
-                if (mp.get(nums[i]) == 1 && nums[i] > maxValue) {
-                    maxValue = nums[i];
+            for (int x = 50; x >= 0; x--) {
+                if (freq[x] == 1) {
+                    return x;
                 }
             }
 
-            return maxValue;
-        }
-
-        n = n - 1;
-
-        if (nums[0] == nums[n]) {
             return -1;
         }
 
-        if (mp.get(nums[0]) == 1 && mp.get(nums[n]) == 1) {
-            return Math.max(nums[0], nums[n]);
+        if (k == n) {
+            int answer = 0;
+
+            for (int x : nums) {
+                answer = Math.max(answer, x);
+            }
+
+            return answer;
         }
 
-        if (mp.get(nums[0]) == 1 && mp.get(nums[n]) > 1) {
-            return nums[0];
+        int answer = -1;
+
+        if (freq[nums[0]] == 1) {
+            answer = Math.max(answer, nums[0]);
         }
 
-        if (mp.get(nums[n]) == 1 && mp.get(nums[0]) > 1) {
-            return nums[n];
+        if (freq[nums[n - 1]] == 1) {
+            answer = Math.max(answer, nums[n - 1]);
         }
 
-        return -1;
+        return answer;
     }
 }
