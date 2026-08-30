@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/akshara1057/DSA-in-Java/tree/master/1872-stone-game-viii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akshara1057/DSA-in-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2029-stone-game-ix](https://github.com/akshara1057/DSA-in-Java/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akshara1057/DSA-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2942-find-words-containing-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2942-find-words-containing-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshara1057/DSA-in-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/akshara1057/DSA-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/akshara1057/DSA-in-Java/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/akshara1057/DSA-in-Java/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/akshara1057/DSA-in-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshara1057/DSA-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
