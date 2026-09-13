@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/akshara1057/DSA-in-Java/tree/master/0486-predict-the-winner) |
 | [0735-asteroid-collision](https://github.com/akshara1057/DSA-in-Java/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/akshara1057/DSA-in-Java/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/akshara1057/DSA-in-Java/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/akshara1057/DSA-in-Java/tree/master/1386-cinema-seat-allocation) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/akshara1057/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/akshara1057/DSA-in-Java/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akshara1057/DSA-in-Java/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
