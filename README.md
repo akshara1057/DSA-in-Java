@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshara1057/DSA-in-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshara1057/DSA-in-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/akshara1057/DSA-in-Java/tree/master/0486-predict-the-winner) |
 | [0735-asteroid-collision](https://github.com/akshara1057/DSA-in-Java/tree/master/0735-asteroid-collision) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/akshara1057/DSA-in-Java/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshara1057/DSA-in-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshara1057/DSA-in-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshara1057/DSA-in-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/akshara1057/DSA-in-Java/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/akshara1057/DSA-in-Java/tree/master/3903-smallest-stable-index-i) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshara1057/DSA-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshara1057/DSA-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshara1057/DSA-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
