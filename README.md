@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/akshara1057/DSA-in-Java/tree/master/0486-predict-the-winner) |
+| [0643-maximum-average-subarray-i](https://github.com/akshara1057/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/akshara1057/DSA-in-Java/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/akshara1057/DSA-in-Java/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/akshara1057/DSA-in-Java/tree/master/0877-stone-game) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/akshara1057/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshara1057/DSA-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshara1057/DSA-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/akshara1057/DSA-in-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
