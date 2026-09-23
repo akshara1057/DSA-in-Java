@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/akshara1057/DSA-in-Java/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/akshara1057/DSA-in-Java/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/akshara1057/DSA-in-Java/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/akshara1057/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akshara1057/DSA-in-Java/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/akshara1057/DSA-in-Java/tree/master/1927-sum-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/akshara1057/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/akshara1057/DSA-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshara1057/DSA-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/akshara1057/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshara1057/DSA-in-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
