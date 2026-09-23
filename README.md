@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/akshara1057/DSA-in-Java/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/akshara1057/DSA-in-Java/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/akshara1057/DSA-in-Java/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/akshara1057/DSA-in-Java/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/akshara1057/DSA-in-Java/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akshara1057/DSA-in-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/akshara1057/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/akshara1057/DSA-in-Java/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshara1057/DSA-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshara1057/DSA-in-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
