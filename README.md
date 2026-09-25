@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshara1057/DSA-in-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/akshara1057/DSA-in-Java/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/akshara1057/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshara1057/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/akshara1057/DSA-in-Java/tree/master/1386-cinema-seat-allocation) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/akshara1057/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/akshara1057/DSA-in-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akshara1057/DSA-in-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
