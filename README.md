@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/akshara1057/DSA-in-Java/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/akshara1057/DSA-in-Java/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/akshara1057/DSA-in-Java/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/akshara1057/DSA-in-Java/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/akshara1057/DSA-in-Java/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/akshara1057/DSA-in-Java/tree/master/0877-stone-game) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/akshara1057/DSA-in-Java/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akshara1057/DSA-in-Java/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshara1057/DSA-in-Java/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Bit Manipulation
