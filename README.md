@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akshara1057/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akshara1057/DSA-in-Java/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1927-sum-game](https://github.com/akshara1057/DSA-in-Java/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/akshara1057/DSA-in-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akshara1057/DSA-in-Java/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshara1057/DSA-in-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/akshara1057/DSA-in-Java/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/akshara1057/DSA-in-Java/tree/master/0735-asteroid-collision) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akshara1057/DSA-in-Java/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
