@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshara1057/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akshara1057/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/akshara1057/DSA-in-Java/tree/master/0344-reverse-string) |
+| [0856-score-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0940-distinct-subsequences-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshara1057/DSA-in-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/akshara1057/DSA-in-Java/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/akshara1057/DSA-in-Java/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshara1057/DSA-in-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
