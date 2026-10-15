@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/akshara1057/DSA-in-Java/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/akshara1057/DSA-in-Java/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/akshara1057/DSA-in-Java/tree/master/0877-stone-game) |
+| [0922-sort-array-by-parity-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [1140-stone-game-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/akshara1057/DSA-in-Java/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/akshara1057/DSA-in-Java/tree/master/1406-stone-game-iii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/akshara1057/DSA-in-Java/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/akshara1057/DSA-in-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/akshara1057/DSA-in-Java/tree/master/0268-missing-number) |
+| [0922-sort-array-by-parity-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akshara1057/DSA-in-Java/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/akshara1057/DSA-in-Java/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akshara1057/DSA-in-Java/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshara1057/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/akshara1057/DSA-in-Java/tree/master/0344-reverse-string) |
+| [0922-sort-array-by-parity-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshara1057/DSA-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshara1057/DSA-in-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
