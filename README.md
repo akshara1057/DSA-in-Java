@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/akshara1057/DSA-in-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshara1057/DSA-in-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/akshara1057/DSA-in-Java/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/akshara1057/DSA-in-Java/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0922-sort-array-by-parity-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshara1057/DSA-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshara1057/DSA-in-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/akshara1057/DSA-in-Java/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/akshara1057/DSA-in-Java/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/akshara1057/DSA-in-Java/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshara1057/DSA-in-Java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
