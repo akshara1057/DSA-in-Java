@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akshara1057/DSA-in-Java/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/akshara1057/DSA-in-Java/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshara1057/DSA-in-Java/tree/master/0922-sort-array-by-parity-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshara1057/DSA-in-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/akshara1057/DSA-in-Java/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akshara1057/DSA-in-Java/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/akshara1057/DSA-in-Java/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akshara1057/DSA-in-Java/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshara1057/DSA-in-Java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akshara1057/DSA-in-Java/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
