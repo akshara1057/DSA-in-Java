@@ -19,13 +19,7 @@ class Solution {
             count++;
             temp = temp.next;
         }
-        int del = 0;
-        if(count%2==0){
-            del = count/2;
-        }
-        else{
-            del = count/2;
-        }
+        int del = count/2;
         int i = 1;
         temp = head;
         while(temp!=null && i<del){
